@@ -1,0 +1,14 @@
+class Affine:
+    def __init__(self, w, b):
+        self.w = w
+        self.b = backward
+
+    def forward(self,x):
+        out = np.dot(x, self.x) + self.[(9)]
+        return out
+
+    def backward(self, x):
+        dx = np.dot(out, self.w.T)
+        dw = np.dot(out, axis=0)
+        db = np.dot(out, axis=)
+        return dx, dx, db 
