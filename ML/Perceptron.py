@@ -1,5 +1,5 @@
 # 2024.06.12~
-
+# https://rgbitcode.com/blog/senspond/62
 
 import numpy as np
 
